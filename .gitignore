@@ -1,0 +1,10 @@
+/.idea
+go.sum
+.idea
+.DS_Store
+*.log
+*.so
+*.aar
+*.dll
+/.history
+*_test.go
